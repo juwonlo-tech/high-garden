@@ -29,7 +29,7 @@ The dashboard is divided into several focused visual segments:
 ## 📁 Files Included
 
 * Screenshots of the Power BI dashboard in a PDF:
-* Power BI (.pbix) file: 
+* Power BI (.pbix) file: https://github.com/juwonlo-tech/high-garden/blob/main/High%20Garden%20Dashboard.pbix
 
 ## 🛠 Tools Used
 
