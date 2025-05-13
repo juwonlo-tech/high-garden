@@ -15,16 +15,12 @@ The goal of this dashboard is to provide actionable insights into High Garden's 
 
 The dashboard is divided into several focused visual segments:
 
-* **Total Sales & Tier 1 Locations:** Identifies performance hotspots in top-tier urban markets.
-* **Sales in 2011:** A historical look at sales performance during the year 2011.
-* **Number of Items Sold & Tier 3 Locations:** Analysis of product movement in rural/less developed areas.
-* **Medium Outlets & Average Sales:** Insights into mid-sized retail outlet performance.
-* **Small Outlets & Average Ratings:** Evaluates customer satisfaction and sales efficiency in smaller stores.
-* **Category Analysis:**
-
-  * Total Sales for Bread and for Fruits & Vegetables
-  * Item Counts for products with Regular Fat content
-  * Average Sales for products with Low Fat content
+* **Filter Panel:** Contains performance hotspots such as Outlet Location Type, Outlet Type, and Item Type.
+* **KPIs:** Highlights KPIs businesses like to see such as Total Sales, Average Sales, Average Rating, and Number of Items.
+* **Fat Distribution in Items Sold:** Analysis of product by KPIs and Fat Content, and KPIs by Outlet Location. 
+* **Item Type & Total Sales:** Insights into item sales distribution.
+* **Total Sales by Outlet Establishment:** Evaluates sales across different years since establishment.
+* ...to mention a few.
 
 ## 📁 Files Included
 
