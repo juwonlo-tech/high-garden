@@ -39,4 +39,4 @@ The dashboard is divided into several focused visual segments:
 
 ## 📈 Insights & Learnings
 
-This project demonstrates proficiency in building a user-friendly business intelligence dashboard from raw data. It highlights how visual storytelling can uncover business opportunities and operational inefficiencies.
+This project demonstrates proficiency in building a user-friendly business intelligence dashboard from raw data. It highlights how visual storytelling can uncover business opportunities and operational KPIs.
